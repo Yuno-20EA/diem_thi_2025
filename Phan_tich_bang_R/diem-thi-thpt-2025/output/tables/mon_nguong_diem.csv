@@ -1,0 +1,127 @@
+﻿Mã,Môn / Khối,Ngưỡng (từ ... trở lên),Số thí sinh,Tỷ lệ (%)
+toan,Toán,5,491070,43.61
+toan,Toán,6,275215,24.44
+toan,Toán,7,137741,12.23
+toan,Toán,8,61411,5.45
+toan,Toán,9,16156,1.43
+toan,Toán,9.5,3070,0.27
+toan,Toán,10,513,0.05
+van,Ngữ văn,5,1056418,93.76
+van,Ngữ văn,6,930273,82.56
+van,Ngữ văn,7,671209,59.57
+van,Ngữ văn,8,300759,26.69
+van,Ngữ văn,9,44000,3.91
+van,Ngữ văn,9.5,4275,0.38
+van,Ngữ văn,10,0,0
+anh,Tiếng Anh,5,217370,61.78
+anh,Tiếng Anh,6,122417,34.79
+anh,Tiếng Anh,7,53251,15.13
+anh,Tiếng Anh,8,18950,5.39
+anh,Tiếng Anh,9,4755,1.35
+anh,Tiếng Anh,9.5,1436,0.41
+anh,Tiếng Anh,10,141,0.04
+ly,Vật lí,5,313570,90.21
+ly,Vật lí,6,259483,74.65
+ly,Vật lí,7,186531,53.66
+ly,Vật lí,8,107023,30.79
+ly,Vật lí,9,40089,11.53
+ly,Vật lí,9.5,16674,4.8
+ly,Vật lí,10,3929,1.13
+hoa,Hóa học,5,169225,70.47
+hoa,Hóa học,6,122578,51.05
+hoa,Hóa học,7,80847,33.67
+hoa,Hóa học,8,46326,19.29
+hoa,Hóa học,9,17839,7.43
+hoa,Hóa học,9.5,7088,2.95
+hoa,Hóa học,10,625,0.26
+sinh,Sinh học,5,47221,67.56
+sinh,Sinh học,6,31496,45.06
+sinh,Sinh học,7,17579,25.15
+sinh,Sinh học,8,7567,10.83
+sinh,Sinh học,9,1775,2.54
+sinh,Sinh học,9.5,528,0.76
+sinh,Sinh học,10,82,0.12
+su,Lịch sử,5,391628,81.37
+su,Lịch sử,6,308662,64.13
+su,Lịch sử,7,210702,43.78
+su,Lịch sử,8,110834,23.03
+su,Lịch sử,9,33112,6.88
+su,Lịch sử,9.5,11649,2.42
+su,Lịch sử,10,1518,0.32
+dia,Địa lí,5,387418,81.31
+dia,Địa lí,6,307619,64.56
+dia,Địa lí,7,215695,45.27
+dia,Địa lí,8,127136,26.68
+dia,Địa lí,9,53670,11.26
+dia,Địa lí,9.5,24975,5.24
+dia,Địa lí,10,6907,1.45
+gdktpl,GD Kinh tế & Pháp luật,5,240077,97.43
+gdktpl,GD Kinh tế & Pháp luật,6,226714,92.01
+gdktpl,GD Kinh tế & Pháp luật,7,192613,78.17
+gdktpl,GD Kinh tế & Pháp luật,8,121024,49.12
+gdktpl,GD Kinh tế & Pháp luật,9,35243,14.3
+gdktpl,GD Kinh tế & Pháp luật,9.5,10696,4.34
+gdktpl,GD Kinh tế & Pháp luật,10,1451,0.59
+tin,Tin học,5,6749,88.78
+tin,Tin học,6,5412,71.19
+tin,Tin học,7,3616,47.57
+tin,Tin học,8,1885,24.8
+tin,Tin học,9,644,8.47
+tin,Tin học,9.5,264,3.47
+tin,Tin học,10,60,0.79
+cn_cn,Công nghệ công nghiệp,5,1510,65.94
+cn_cn,Công nghệ công nghiệp,6,1011,44.15
+cn_cn,Công nghệ công nghiệp,7,586,25.59
+cn_cn,Công nghệ công nghiệp,8,257,11.22
+cn_cn,Công nghệ công nghiệp,9,66,2.88
+cn_cn,Công nghệ công nghiệp,9.5,24,1.05
+cn_cn,Công nghệ công nghiệp,10,4,0.17
+cn_nn,Công nghệ nông nghiệp,5,21575,97.85
+cn_nn,Công nghệ nông nghiệp,6,20433,92.68
+cn_nn,Công nghệ nông nghiệp,7,17290,78.42
+cn_nn,Công nghệ nông nghiệp,8,10759,48.8
+cn_nn,Công nghệ nông nghiệp,9,3474,15.76
+cn_nn,Công nghệ nông nghiệp,9.5,1087,4.93
+cn_nn,Công nghệ nông nghiệp,10,101,0.46
+nga,Tiếng Nga,5,60,100
+nga,Tiếng Nga,6,59,98.33
+nga,Tiếng Nga,7,53,88.33
+nga,Tiếng Nga,8,52,86.67
+nga,Tiếng Nga,9,39,65
+nga,Tiếng Nga,9.5,29,48.33
+nga,Tiếng Nga,10,12,20
+phap,Tiếng Pháp,5,396,97.06
+phap,Tiếng Pháp,6,374,91.67
+phap,Tiếng Pháp,7,338,82.84
+phap,Tiếng Pháp,8,289,70.83
+phap,Tiếng Pháp,9,194,47.55
+phap,Tiếng Pháp,9.5,127,31.13
+phap,Tiếng Pháp,10,39,9.56
+trung,Tiếng Trung,5,3607,85.37
+trung,Tiếng Trung,6,3164,74.89
+trung,Tiếng Trung,7,2659,62.93
+trung,Tiếng Trung,8,2038,48.24
+trung,Tiếng Trung,9,1301,30.79
+trung,Tiếng Trung,9.5,781,18.49
+trung,Tiếng Trung,10,212,5.02
+duc,Tiếng Đức,5,138,92
+duc,Tiếng Đức,6,129,86
+duc,Tiếng Đức,7,111,74
+duc,Tiếng Đức,8,90,60
+duc,Tiếng Đức,9,51,34
+duc,Tiếng Đức,9.5,21,14
+duc,Tiếng Đức,10,5,3.33
+nhat,Tiếng Nhật,5,348,70.88
+nhat,Tiếng Nhật,6,292,59.47
+nhat,Tiếng Nhật,7,206,41.96
+nhat,Tiếng Nhật,8,129,26.27
+nhat,Tiếng Nhật,9,70,14.26
+nhat,Tiếng Nhật,9.5,28,5.7
+nhat,Tiếng Nhật,10,4,0.81
+han,Tiếng Hàn,5,357,65.99
+han,Tiếng Hàn,6,261,48.24
+han,Tiếng Hàn,7,181,33.46
+han,Tiếng Hàn,8,94,17.38
+han,Tiếng Hàn,9,43,7.95
+han,Tiếng Hàn,9.5,17,3.14
+han,Tiếng Hàn,10,4,0.74
